@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\Dosya uzantısı ve tür değişme 815\Dosya uzantısı ve tür değişme 815\bin\Debug\Dosya uzantısı ve tür değişme 815.exe.config
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\Dosya uzantısı ve tür değişme 815\Dosya uzantısı ve tür değişme 815\bin\Debug\Dosya uzantısı ve tür değişme 815.exe
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\Dosya uzantısı ve tür değişme 815\Dosya uzantısı ve tür değişme 815\bin\Debug\Dosya uzantısı ve tür değişme 815.pdb
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\Dosya uzantısı ve tür değişme 815\Dosya uzantısı ve tür değişme 815\obj\Debug\Dosya uzantısı ve tür değişme 815.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\Dosya uzantısı ve tür değişme 815\Dosya uzantısı ve tür değişme 815\obj\Debug\Dosya uzantısı ve tür değişme 815.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\Dosya uzantısı ve tür değişme 815\Dosya uzantısı ve tür değişme 815\obj\Debug\Dosya_uzantısı_ve_tür_değişme_815.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\Dosya uzantısı ve tür değişme 815\Dosya uzantısı ve tür değişme 815\obj\Debug\Dosya_uzantısı_ve_tür_değişme_815.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\Dosya uzantısı ve tür değişme 815\Dosya uzantısı ve tür değişme 815\obj\Debug\Dosya uzantısı ve tür değişme 815.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\Dosya uzantısı ve tür değişme 815\Dosya uzantısı ve tür değişme 815\obj\Debug\Dosya uzantısı ve tür değişme 815.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\Dosya uzantısı ve tür değişme 815\Dosya uzantısı ve tür değişme 815\obj\Debug\Dosya uzantısı ve tür değişme 815.exe
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\Dosya uzantısı ve tür değişme 815\Dosya uzantısı ve tür değişme 815\obj\Debug\Dosya uzantısı ve tür değişme 815.pdb
